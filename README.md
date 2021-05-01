@@ -16,13 +16,13 @@ Alunos:
 ### 1. Captura de tela da base de dados
 
 <p align = center>
-    <img src = '/images/regras.png' width = '300'>
+    <img src = '/images/regras.png' width = '250'>
 </p>
 
 ### 2. Captura de tela de um fluxo de execução do sistema
 
 <p align = center>
-    <img src = '/images/teste.png' width = '300'>
+    <img src = '/images/teste.png' width = '350'>
 </p>
 
 <h2 align = center> Atividade 2 </h2>
