@@ -45,15 +45,15 @@ Alunos:
 - Rule 14: IF pavimento atual for terceiro andar AND botão for apertado no primeiro andar AND já estiver indo para o segundo andar THEN lembrar de ir ao primeiro andar depois
 - Rule 15: IF pavimento atual for terceiro andar AND botão for apertado no segundo andar AND já estiver indo para o primeiro andar THEN lembrar de ir ao primeiro andar depois
 
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Print da Execução do Sistema
 <p align = center>
-    <img src = 'images/execução-SE-elevador.png' width = '250'>
+    <img src = 'images/execução-SE-elevador.png' width = '350'>
 </p>
 
 <p align = center>
-    <img src = 'images/rules-SE-elevador.png' width = '250'>
+    <img src = 'images/rules-SE-elevador.png' width = '900'>
 </p>
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align = center> Atividade 3 </h2>
 <h3 align = center> Lorem Ipsum blablabla </h3>
