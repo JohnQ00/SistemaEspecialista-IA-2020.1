@@ -29,8 +29,6 @@ Alunos:
 <h3 align = center> Sistema Especialista Dinossauro </h3>
 
 # Regras para o Sistema Especialista ELEVADOR
-
-
 - Rule 1: IF pavimento atual for primeiro andar AND botão for apertado no primeiro andar THEN abrir a porta
 - Rule 2: IF pavimento atual for segundo andar AND botão for apertado no segundo andar THEN abrir a porta
 - Rule 3: IF pavimento atual for terceiro andar AND botão for apertado no terceiro andar THEN abrir a porta
@@ -48,6 +46,14 @@ Alunos:
 - Rule 15: IF pavimento atual for terceiro andar AND botão for apertado no segundo andar AND já estiver indo para o primeiro andar THEN lembrar de ir ao primeiro andar depois
 
 -------------------------------------------------------------------------------------------------------------------
+# Print da Execução do Sistema
+<p align = center>
+    <img src = 'images/execução-SE-elevador.png' width = '250'>
+</p>
 
+<p align = center>
+    <img src = 'images/rules-SE-elevador.png' width = '250'>
+</p>
+-------------------------------------------------------------------------------------------------------------------
 <h2 align = center> Atividade 3 </h2>
 <h3 align = center> Lorem Ipsum blablabla </h3>
