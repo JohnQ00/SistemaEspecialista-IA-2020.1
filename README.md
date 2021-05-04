@@ -56,4 +56,4 @@ Alunos:
 </p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align = center> Atividade 3 </h2>
-<h3 align = left> Link para o documento: [Doc aqui] (https://docs.google.com/document/d/1gtPcK_ztY60sApZo9JdeUZlTfGXah2IR29BZfy9N3kY/edit?usp=sharing) </h3>
+<h3> Link para o documento: </h3> <a href="https://docs.google.com/document/d/1gtPcK_ztY60sApZo9JdeUZlTfGXah2IR29BZfy9N3kY/edit?usp=sharing">Doc aqui (email institucional)</a> 
